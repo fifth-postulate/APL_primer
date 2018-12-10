@@ -31,3 +31,25 @@
 <!-- -->
 
 > He was "appalled" to find that conventional mathematical notation failed to fill his needs, and began work on extensions to the notation that were more suitable
+
+???
+
+# APL born out of necessity
+# Mathematical background
+# Business application
+
+---
+
+## Notation as a tool of thought
+ 
+* Ease of expressing constructs arising in problems.
+* Suggestivity.
+* Ability to subordinate detail.
+* Economy.
+* Amenability to formal proofs.
+
+???
+
+# http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf
+# Turing Award Lecture
+# 1979
