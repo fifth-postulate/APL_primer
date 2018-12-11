@@ -121,3 +121,46 @@ public class Verbose2 {
 # Should be skeptical
 # Try APL
 
+---
+
+### What to know about
+## APL
+
+---
+
+## Everything is an Array
+
+--
+
+```apl
+1 2 3 4 5
+```
+
+--
+
+```apl
+1
+```
+
+--
+
+```apl
+'abc'
+```
+
+--
+
+```apl
+ 1  2  3
+ 4  5  6
+
+ 7  8  9
+10 11 12
+```
+
+???
+
+# Well, actually...
+# Almost everything
+
+
