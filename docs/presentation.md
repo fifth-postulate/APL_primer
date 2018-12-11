@@ -163,4 +163,38 @@ public class Verbose2 {
 # Well, actually...
 # Almost everything
 
+---
 
+## Functions
+
+--
+
+### `ρ`
+
+#### monadic _shape_
+
+```apl
+    ρ 1 2 3 4 5
+
+5
+```
+
+--
+
+#### dyadic _reshape_
+
+```apl
+    2 2 3 ρ 1 2 3 4 5 6 7 8 9 10 11 12
+ 
+ 1  2  3
+ 4  5  6
+
+ 7  8  9
+10 11 12
+```
+
+???
+
+# Standard functions succinctly with one character
+# Monadic: arguments only on one side
+# Dyadic: arguments on two sides
