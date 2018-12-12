@@ -289,3 +289,14 @@ If `S` is an APL expression, e.g. `≢∪⌈\`
 > Write an APL expression that, given a scalar real non-negative number, will 
 > return a two-element vector of the integer and fractional parts of the number. 
 
+---
+
+## Homework
+
+### [https://adventofcode.com/2018/](https://adventofcode.com/2018/)
+
+???
+
+# Advent of code
+# Save christmas by solving puzzles
+# Solve as many as you like, but at least one in APL
