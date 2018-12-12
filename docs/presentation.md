@@ -139,7 +139,7 @@ public class Verbose2 {
 --
 
 ```apl
-1
+1 ⍝ this is not an array ☹
 ```
 
 --
@@ -198,3 +198,33 @@ public class Verbose2 {
 # Standard functions succinctly with one character
 # Monadic: arguments only on one side
 # Dyadic: arguments on two sides
+# Almost all function have a name
+
+---
+
+## Functions continued
+
+--
+
+```apl
+    10 + 1 2 3 4
+11 12 13 14
+```
+
+--
+
+```apl
+    10 20 30 40 + 1 2 3 4
+11 12 13 14
+```
+
+--
+
+```apl
+    10 20 + 1 2 3 4
+LENGTH ERROR
+```
+
+???
+
+# Functions try to do sensible things
