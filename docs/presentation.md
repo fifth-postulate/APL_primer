@@ -228,3 +228,20 @@ LENGTH ERROR
 ???
 
 # Functions try to do sensible things
+# scalar and vector
+# vectors of same shape
+# vectors of different shape
+
+---
+
+# Assignment
+
+--
+
+```apl
+skyscrapers ← 5 5 2 10 3 15 10
+```
+
+???
+
+# Assignment done with ← (left arrow)
