@@ -250,12 +250,12 @@ skyscrapers ← 5 5 2 10 3 15 10
 
 ## Challenge!
 
-> Imagine standing in front of a line of skyscrapers of varying heights. 
+> Imagine standing in front of a line of skyscrapers of varying heights.
 > Assume that you can always see a skyscraper that is taller than a closer
-> skyscraper. 
+> skyscraper.
 >
-> Write an APL expression that, given a scalar or vector of skyscraper heights 
-> from closest to furthest, will return an integer representing the number of 
+> Write an APL expression that, given a scalar or vector of skyscraper heights
+> from closest to furthest, will return an integer representing the number of
 > skyscrapers that can be seen.
 
 --
@@ -267,3 +267,17 @@ Take a look at
 * `∪` *unique*
 * `≢` *tally*
 
+---
+
+## Abstraction
+
+If `S` is an APL expression, e.g. `≢∪⌈\`
+
+--
+
+`{Sꞷ}` is the function that accepts arguments to the right.
+
+???
+
+# Function abstraction
+# How would a function that accepts arguments to the left look like
