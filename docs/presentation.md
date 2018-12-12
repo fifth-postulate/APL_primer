@@ -281,3 +281,11 @@ If `S` is an APL expression, e.g. `≢∪⌈\`
 
 # Function abstraction
 # How would a function that accepts arguments to the left look like
+
+---
+
+## Challenge!
+
+> Write an APL expression that, given a scalar real non-negative number, will 
+> return a two-element vector of the integer and fractional parts of the number. 
+
