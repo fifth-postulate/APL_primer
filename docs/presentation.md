@@ -245,3 +245,25 @@ skyscrapers ← 5 5 2 10 3 15 10
 ???
 
 # Assignment done with ← (left arrow)
+
+---
+
+## Challenge!
+
+> Imagine standing in front of a line of skyscrapers of varying heights. 
+> Assume that you can always see a skyscraper that is taller than a closer
+> skyscraper. 
+>
+> Write an APL expression that, given a scalar or vector of skyscraper heights 
+> from closest to furthest, will return an integer representing the number of 
+> skyscrapers that can be seen.
+
+--
+
+Take a look at
+
+* `\` *scan*
+* `⌈` *maximum*
+* `∪` *unique*
+* `≢` *tally*
+
