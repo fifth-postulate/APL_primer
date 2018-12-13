@@ -236,8 +236,6 @@ LENGTH ERROR
 
 # Assignment
 
---
-
 ```apl
 skyscrapers ← 5 5 2 10 3 15 10
 ```
@@ -275,7 +273,7 @@ If `S` is an APL expression, e.g. `≢∪⌈\`
 
 --
 
-`{Sꞷ}` is the function that accepts arguments to the right.
+`{Sω}` is the function that accepts arguments to the right.
 
 ???
 
