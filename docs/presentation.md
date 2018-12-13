@@ -298,3 +298,9 @@ If `S` is an APL expression, e.g. `≢∪⌈\`
 # Advent of code
 # Save christmas by solving puzzles
 # Solve as many as you like, but at least one in APL
+
+---
+
+## Slides: [http://fifth-postulate.nl/APL_primer/](http://fifth-postulate.nl/APL_primer/)
+## Twitter: [@daan_van_berkel](https://twitter.com/daan_van_berkel)
+## GitHub: [dvberkel](https://github.com/dvberkel)
