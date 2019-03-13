@@ -18,7 +18,7 @@
 ???
 
 # Kenneth E. Iverson
-# 17 December 1920 &emdash 19 October 2004
+# 17 December 1920 &emdash; 19 October 2004
 # Graduated Harvard
 # Assistant Professor 
 
