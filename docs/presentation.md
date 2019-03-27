@@ -234,6 +234,37 @@ LENGTH ERROR
 
 ---
 
+# Warm Up
+
+--
+
+* What does `⌈` do? 
+
+--
+
+* Without looking up the documentation what does `⌊` do?
+
+--
+
+* What does `⌽` do?
+
+--
+
+* Without looking up the documentation what does `⦵` do?
+--
+
+* What does `≢` do?
+
+--
+
+* What does `\` do?
+
+???
+
+# Warm up exercises
+
+---
+
 # Assignment
 
 ```apl
@@ -275,6 +306,15 @@ If `S` is an APL expression, e.g. `≢∪⌈\`
 
 `{Sω}` is the function that accepts arguments to the right.
 
+--
+
+`⋄` is a statement separator
+
+```apl
+{a←1⊃⍵ ⋄ b←2⊃⍵ ⋄ b (a+b)} 3 5
+```
+
+
 ???
 
 # Function abstraction
@@ -291,13 +331,13 @@ If `S` is an APL expression, e.g. `≢∪⌈\`
 
 ## Homework
 
-### [https://adventofcode.com/2018/](https://adventofcode.com/2018/)
+> Write an APL expression/program to calculate something non-trivial.
+
+### [APL Exercises](http://www.jsoftware.com/papers/APL_exercises/)
 
 ???
 
-# Advent of code
-# Save christmas by solving puzzles
-# Solve as many as you like, but at least one in APL
+# APL exercises
 
 ---
 
